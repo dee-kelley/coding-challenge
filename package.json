@@ -1,0 +1,29 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "Our coding challenge is your opportunity to demonstrate your experience, skills, and aptitude by building a prototype of the web’s most minimal referral automation software.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "challenge": "^1.0.7",
+    "create-react-app": "^3.0.0",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dee-kelley/coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dee-kelley/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/dee-kelley/coding-challenge#readme"
+}
