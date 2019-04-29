@@ -12,7 +12,7 @@ let Referral = require('./schema');
 
 app.use(cors());
 app.use(bodyParser.json());
-const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/grocery_app_dev';
+const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/referrals';
 
 mongoose.connect(mongoUri);
 
